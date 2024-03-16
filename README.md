@@ -1,4 +1,4 @@
-# CSS-Animations
+# CSS/JS Animations
 
 * [Random Background Color](https://github.com/lucasrenandev/random-bgColor)
 * [Animated Stars](https://github.com/lucasrenandev/animated-stars)
