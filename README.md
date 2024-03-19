@@ -1,5 +1,7 @@
 # CSS/JS Animations
 
+* [Infinity Symbol Animation](https://github.com/lucasrenandev/infinity-symbol-animation)
+* [3D Pyramid CSS Animation](https://github.com/lucasrenandev/3d-pyramid-css-animation)
 * [Random Background Color](https://github.com/lucasrenandev/random-bgColor)
 * [Animated Stars](https://github.com/lucasrenandev/animated-stars)
 * [Text Rain Animation](https://github.com/lucasrenandev/text-rain-animation)
