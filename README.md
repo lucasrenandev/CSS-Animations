@@ -1,4 +1,4 @@
-# CSS/JS Animations
+# CSS/JavaScript Animations
 
 * [Infinity Symbol Animation](https://github.com/lucasrenandev/infinity-symbol-animation)
 * [3D Pyramid CSS Animation](https://github.com/lucasrenandev/3d-pyramid-css-animation)
