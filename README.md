@@ -1,5 +1,6 @@
 # CSS3/JavaScript Animations
 
+* [Planet Earth Animation](https://github.com/lucasrenandev/planet-earth-animation)
 * [Infinity Symbol Animation](https://github.com/lucasrenandev/infinity-symbol-animation)
 * [3D Pyramid CSS Animation](https://github.com/lucasrenandev/3d-pyramid-css-animation)
 * [Random Background Color](https://github.com/lucasrenandev/random-bgColor)
