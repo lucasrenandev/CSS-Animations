@@ -1,4 +1,4 @@
-# CSS3/JavaScript Animations
+# CSS3 Animation
 
 * [Heart Rain Animation](https://github.com/lucasrenandev/heart-rain-animation)
 * [3D Cube CSS Animation](https://github.com/lucasrenandev/3d-cube-css-animation)
