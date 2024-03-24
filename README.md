@@ -10,7 +10,6 @@
 * [Text Rain Animation](https://github.com/lucasrenandev/text-rain-animation)
 * [Fingerprint Scanner Animation](https://github.com/lucasrenandev/fingerprint-scanner-animation)
 * [Circular Social Sharing Menu](https://github.com/lucasrenandev/circular-social-sharing-menu)
-* [3D Image Gallery](https://github.com/lucasrenandev/3d-image-gallery)
 * [Animated Hot Cup Of Tea](https://github.com/lucasrenandev/animated-hot-cup-tea)
 * [Text Animation](https://github.com/lucasrenandev/Creative-Text-Animation)
 * [Animated Background Effect](https://github.com/lucasrenandev/animated-background-effect)
