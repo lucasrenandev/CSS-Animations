@@ -1,5 +1,6 @@
 #  🌟 CSS3 Animations 🌟 
 
+* [Rocket CSS Animation](https://github.com/lucasrenandev/rocket-css-animation)
 * [Light Bulb CSS Animation](https://github.com/lucasrenandev/light-bulb-css-animation)
 * [Mousemove Effect](https://github.com/lucasrenandev/mousemove-effect)
 * [Heart Rain Animation](https://github.com/lucasrenandev/heart-rain-animation)
