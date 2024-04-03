@@ -1,5 +1,6 @@
 #  🌟 CSS3 Animations 🌟 
 
+* [Animated Lamp with Color Picker](https://github.com/lucasrenandev/animatedLampWithColorPicker)
 * [Rocket CSS Animation](https://github.com/lucasrenandev/rocket-css-animation)
 * [Light Bulb CSS Animation](https://github.com/lucasrenandev/light-bulb-css-animation)
 * [Mousemove Effect](https://github.com/lucasrenandev/mousemove-effect)
