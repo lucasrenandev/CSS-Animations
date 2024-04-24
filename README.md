@@ -1,6 +1,6 @@
 #  🌟 CSS3 Animations 🌟 
 
-* [Animated Lamp with Color Picker](https://github.com/lucasrenandev/animatedLampWithColorPicker)
+* [CSS Loading Effect](https://github.com/lucasrenandev/CSS-Loading-Effect)
 * [Rocket CSS Animation](https://github.com/lucasrenandev/rocket-css-animation)
 * [Light Bulb CSS Animation](https://github.com/lucasrenandev/light-bulb-css-animation)
 * [Mousemove Effect](https://github.com/lucasrenandev/mousemove-effect)
@@ -19,7 +19,7 @@
 * [Animated Background Effect](https://github.com/lucasrenandev/animated-background-effect)
 * [Animation Reflect](https://github.com/lucasrenandev/CSS-Animation-Reflect)
 * [Animated Heartbeat](https://github.com/lucasrenandev/animated-heartbeat)
-* [Loading Effect](https://github.com/lucasrenandev/Creative-CSS-Loading-Effect)
+* [CSS Loading Effect 1](https://github.com/lucasrenandev/Creative-CSS-Loading-Effect)
 * [Gradient Border Cards](https://github.com/lucasrenandev/CSS-Gradient-Border-Cards)
 * [Vibrating Heart Animation](https://github.com/lucasrenandev/vibrating-heart-animation)
 * [Neon Button Effect](https://github.com/lucasrenandev/neon-button-effect)
