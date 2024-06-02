@@ -1,5 +1,6 @@
 #  🌟 CSS3 Animations 🌟 
 
+* [Animated Envelope Design](https://github.com/lucasrenandev/animated-envelope-design)
 * [CSS Loading Effect](https://github.com/lucasrenandev/CSS-Loading-Effect)
 * [Rocket CSS Animation](https://github.com/lucasrenandev/rocket-css-animation)
 * [Light Bulb CSS Animation](https://github.com/lucasrenandev/light-bulb-css-animation)
